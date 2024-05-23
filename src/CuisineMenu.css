@@ -1,0 +1,25 @@
+.cuisineMenu{
+    /* height:35vh; */
+    width: 70%;
+    background-color: white;
+    max-width: 1200px;
+   margin: 0 auto;
+   /* display: flex;
+   justify-content: center;
+   align-items: center; */
+}
+
+.cuisineMenu p {
+    color:blue;
+}
+.cuisineMenu ul{
+    display: flex;
+    flex-direction: row;
+}
+.cuisineMenu img{
+   height: 50px;
+   width: 50px;
+   margin-top:30px;
+   margin-left: 2%;
+ 
+}

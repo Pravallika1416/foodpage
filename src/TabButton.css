@@ -1,0 +1,44 @@
+.examples{
+
+   margin: 0 auto;
+  
+  
+}
+menu{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    width: 70%;
+}
+menu li{
+     /* Add your custom styles here */
+  list-style-type: none; /* Remove default bullet point */
+  padding: 10px; /* Add padding */
+ margin: 0 auto;
+ /* Set background color */
+ 
+}
+.active{
+    color: blue;
+    background-color: pink;
+}
+.example-data{
+    margin: 0 auto;
+    width: 70%;
+    color: blue;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+.example-data h4{
+    background-color: pink;
+    font-weight: bold;
+    
+}
+.example-data li{
+    /* Add your custom styles here */
+ list-style-type: none; /* Remove default bullet point */
+ padding: 10px; /* Add padding */
+margin: 0 auto;
+/* Set background color */
+
+}
